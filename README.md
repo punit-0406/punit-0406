@@ -7,4 +7,4 @@ Hello! 👋 I'm Punit Muthu Ravikumar, a passionate computer science enthusiast 
 
 ------------------------------------
 <b>Tech Stack<br>
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,flask,cpp,py,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,py,mysql)](https://skillicons.dev)
